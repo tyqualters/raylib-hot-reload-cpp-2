@@ -1,6 +1,7 @@
-# Development Guide
+This is just a bit more advanced example of hot reloading in C++.
 
-## What goes in MyGame and what goes in libgame?
+Again, tested only on Linux. If you want to test on Windows and give me some feedback, that'd be great. Although, I would highly recommend using MinGW GCC/G++ instead of MSVC or Clang if you do.
 
-Game State should be stored in MyGame and mechanics should be stored in libgame.
+V/r,
 
+Ty
